@@ -12,9 +12,9 @@ body, html {
 }
 
 img {
-    max-width: 95%;
+    max-width: 100%;
     height: auto;
-    max-height: 95vh; 
+    max-height: 100vh; 
 }
 
 p {
