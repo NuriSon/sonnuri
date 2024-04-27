@@ -8,13 +8,15 @@ body, html {
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100%;
+    height: 100vh;
+    text-align: center;
 }
 
 img {
-    max-width: 100%;
+    width: 85%;
     height: auto;
-    max-height: 100vh; 
+    max-height: 85vh; /* Adjusted to maintain aspect ratio */
+    margin: auto; /* Centering the image horizontally */
 }
 
 p {
