@@ -12,7 +12,11 @@ body, html {
 }
 
 img {
-    max-width: 100%;
+    max-width: 95%;
     height: auto;
-    max-height: 100vh; 
+    max-height: 95vh; 
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
 }
